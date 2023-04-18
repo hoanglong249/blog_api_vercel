@@ -4,10 +4,10 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-        "start": "nodemon server.js "
+        "start": "node server.js "
     },
     "keywords": [],
-    "author": "Gilbert Hutapea ",
+    "author": "Long",
     "license": "ISC",
     "dependencies": {
         "bcryptjs": "^2.4.3",
